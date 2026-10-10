@@ -1076,9 +1076,18 @@
             }
           }
         ]
+      },
+      {
+        "id": 1,
+        "title": "Nuevo diagrama PLOT4ai",
+        "diagramType": "PLOT4ai",
+        "placeholder": "Descripción de nuevo diagrama PLOT4ai",
+        "thumbnail": "./public/content/images/thumbnail.plot4ai.jpg",
+        "version": "2.6.2",
+        "cells": []
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "A security architect",
     "threatTop": 0
   }
